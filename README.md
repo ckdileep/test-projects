@@ -1,6 +1,5 @@
 ** Build Instructions**
 * Run mvn clean install
-* go to command line
 * war file (demo-0.0.1-SNAPSHOT.war) will be generated in target folder
 * Deploy war in tomcat
 * Run following in browser
